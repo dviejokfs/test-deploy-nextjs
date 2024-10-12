@@ -19,7 +19,7 @@ export default function Home() {
               src/app/page.tsx
             </code>
           </li>
-          <li>Save and see your changes instantly. And instally you can see the changes in the browser. Changed1. {Date.now()}</li>
+          <li>Save and see your changes instantly1. And instally you can see the changes in the browser. Changed1. {Date.now()}</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
